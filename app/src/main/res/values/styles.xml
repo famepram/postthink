@@ -55,4 +55,21 @@
         <item name="android:textColor">@color/colorWhite</item>
         <item name="android:layout_marginLeft">16dp</item>
     </style>
+    <style name="TransactionMainWidgetText">
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:layout_centerHorizontal">true</item>
+    </style>
+    <style name="TransactionMainWidgetWrapper">
+        <item name="android:padding">24dp</item>
+        <item name="android:paddingTop">36dp</item>
+    </style>
+    <style name="TransactionMainWidgetTextSmall" parent="TransactionMainWidgetText">
+        <item name="android:textSize">16sp</item>
+
+    </style>
+    <style name="TransactionMainWidgetTextLarge" parent="TransactionMainWidgetText">
+        <item name="android:layout_marginTop">12dp</item>
+        <item name="android:textSize">28sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
 </resources>
