@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PostThink</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="dashboard_widget_txt_sm_total_trans">Today total transactions</string>
+    <string name="dashboard_widget_txt_sm_total_order">Today total orders</string>
+    <string name="dashboard_widget_txt_sm_last_order">Today last order no.</string>
+</resources>
